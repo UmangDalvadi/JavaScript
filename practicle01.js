@@ -32,3 +32,6 @@ console.log(typeof b); //ans - string
 
 b=Number.parseInt(b); // function converting string into number
 console.log(typeof b); //ans - number
+
+//    Ternory op  :  condition ? true  : false
+console.log("you can",b>=18?"drive":"not drive")
