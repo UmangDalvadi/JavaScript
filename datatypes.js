@@ -1,3 +1,5 @@
+// primitive datatypes - nn bb ss u
+
 let a=null
 let b=2429
 let c=true
@@ -5,7 +7,6 @@ let c=true
 let e="umang"
 // let f=Symbol(hello)
 let g=undefined  //or let g
+
 console.log(a ,b ,c ,e ,g)
-
-
-console.log("umang");
+// console.log("umang");
