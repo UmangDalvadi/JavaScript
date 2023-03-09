@@ -13,3 +13,7 @@ console.log(date2)
 let bdate = Date(2004, 04, 24, 02, 15, 24)
 console.log(bdate)
 
+const greet = () => {
+    time.innerHTML = new Date()
+}
+setInterval(greet, 1000)
